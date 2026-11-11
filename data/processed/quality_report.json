@@ -1,0 +1,13 @@
+{
+  "rows_input": 891,
+  "rows_output": 777,
+  "duplicates_removed": 114,
+  "duplicates_removed_before_imputation": 107,
+  "duplicates_removed_after_imputation": 7,
+  "nulls_input": 869,
+  "nulls_output": 0,
+  "nulls_imputed_or_removed": 869,
+  "columns_output": 17,
+  "memory_bytes_input": 21739,
+  "memory_bytes_output": 18616
+}

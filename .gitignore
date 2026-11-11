@@ -1,0 +1,20 @@
+# Entornos y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Dataset original descargado por el pipeline
+data/raw/*
+!data/raw/.gitkeep
+
+# Archivos temporales
+*.tmp
+*.tmp.*
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
